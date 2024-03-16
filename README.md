@@ -17,8 +17,8 @@
 
 
 # 💻 Linguagens 
-## JAVA
-## PYTHON
+## JAVA ☕
+## PYTHON 🐍
 ## CSS
 ## HTML5
 ## JAVA SCRIPT
