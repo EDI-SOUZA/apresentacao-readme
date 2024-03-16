@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
+  <a href="https://www.instagram.com/_edi_developer_full_stack_?igsh=MWgwajRtZ3VtdXg2Ng%3D%3D&utm_source=qr" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
   
 
