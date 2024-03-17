@@ -16,7 +16,7 @@
   
 
 
-# 💻 Linguagens 
+# 💻 Tecnologias
 ## JAVA ☕
 ## PYTHON 🐍
 ## CSS
