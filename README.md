@@ -7,6 +7,7 @@
 
 
 ## Meu nome é Edilson Souza, sou discente em Sistemas de Informação na UFOPA. Meu objetivo é me tornar desenvolvedor full stack em java. Meus principais hobbies são: estudar, correr e jogar futebol.
+   Atualmente trabalho no provedor Soft Telecom.
 
 
 
